@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/From-Syria-397A32?style=flat-square" alt="From Syria" />
 </p>
 
-Computer and control systems engineer from Syria, now studying for a master's degree in Nanoelectronics (microprocessors) at the National Research University "Moscow Power Engineering Institute" (MPEI). My research is about state-of-charge (SOC) estimation for LiFePO4 batteries and running those estimators on microcontrollers in battery-management systems (BMS). Before that I built mobile apps with Flutter and Firebase.
+Automatic control and computer engineer from Syria (Tishreen University), now studying for a master's degree in Industrial Electronics at the National Research University "Moscow Power Engineering Institute" (MPEI). My research is about state-of-charge (SOC) estimation for LiFePO4 batteries and running those estimators on microcontrollers in battery-management systems (BMS). Before that I built mobile apps with Flutter and Firebase.
 
 **Explore:** [Research](#research) · [Projects](#projects) · [Tools](#tools) · [Education](#education)
 
@@ -59,13 +59,14 @@ LiFePO4 cells have a long, flat OCV–SOC plateau, where a 1 mV error in the cur
 ```mermaid
 timeline
     title Education and engineering journey
-    2023 : BSc projects, Flutter + Firebase apps
-    2025 : MSc in Nanoelectronics starts, MPEI, Moscow
+    2018 : BSc starts, Tishreen University
+    2023 : BSc completed, Tishreen University : Flutter + Firebase apps
+    2025 : MSc in Industrial Electronics starts, MPEI, Moscow
     2026 : Thesis on LiFePO4 SOC estimation : MNTK conference abstract
 ```
 
-**MSc in Nanoelectronics (microprocessors), MPEI, Moscow** | 2025–present
+**MSc in Industrial Electronics, MPEI, Moscow** | 2025–present
 
 Thesis: *Research of state-of-charge estimation methods for LiFePO4 batteries and their implementation in control systems.* Supervisor: A. N. Smirnov, PhD, Associate Professor.
 
-**BSc in Computer and Control Systems Engineering**, Syria
+**BSc in Automatic Control and Computer Engineering, Tishreen University, Syria** | 2018–2023
