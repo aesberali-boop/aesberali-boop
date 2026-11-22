@@ -37,7 +37,7 @@ LiFePO4 cells have a long, flat OCV–SOC plateau, where a 1 mV error in the cur
 
 | App | What it does | Repository |
 | --- | --- | --- |
-| **Silent** | Bidding (auction) app | [silent →](https://github.com/aesberali-boop/silent) |
+| **Silent** | Bidding (auction) app · BSc graduation project | [silent →](https://github.com/aesberali-boop/silent) |
 | **Shop** | E-commerce shop | [flutter-shop-app →](https://github.com/aesberali-boop/flutter-shop-app) |
 | **Hotel** | Hotel room management | [flutter-hotel-app →](https://github.com/aesberali-boop/flutter-hotel-app) |
 | **Library** | Books and writers catalogue (Firestore) | [flutter-library-app →](https://github.com/aesberali-boop/flutter-library-app) |
@@ -60,7 +60,7 @@ LiFePO4 cells have a long, flat OCV–SOC plateau, where a 1 mV error in the cur
 timeline
     title Education and engineering journey
     2018 : BSc starts, Tishreen University
-    2023 : BSc completed, Tishreen University : Flutter + Firebase apps
+    2023 : BSc completed, Tishreen University : Graduation project, Silent bidding app
     2025 : MSc in Industrial Electronics starts, MPEI, Moscow
     2026 : Thesis on LiFePO4 SOC estimation : MNTK conference abstract
 ```
@@ -70,3 +70,5 @@ timeline
 Thesis: *Research of state-of-charge estimation methods for LiFePO4 batteries and their implementation in control systems.* Supervisor: A. N. Smirnov, PhD, Associate Professor.
 
 **BSc in Automatic Control and Computer Engineering, Tishreen University, Syria** | 2018–2023
+
+Graduation project: [Silent](https://github.com/aesberali-boop/silent), a bidding (auction) app built with Flutter and Firebase.
